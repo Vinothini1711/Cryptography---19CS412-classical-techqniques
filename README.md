@@ -100,6 +100,9 @@ int main() {
 
 ## OUTPUT:
 
+![Screenshot 2024-09-04 202028](https://github.com/user-attachments/assets/d4e0e4c2-d4f8-4f61-8c90-eaf49a74b4a0)
+
+
 
 
 
@@ -367,6 +370,11 @@ int main() {
 
 
 
+![Screenshot 2024-09-04 203121](https://github.com/user-attachments/assets/7a590879-cbd7-4dc2-85e6-160c8a384b3f)
+
+
+
+
 
 
 ## RESULT:
@@ -501,6 +509,7 @@ int main() {
 
 ## OUTPUT:
 
+![Screenshot 2024-09-04 203247](https://github.com/user-attachments/assets/09142594-1791-403d-b290-2a6b5afeb5c2)
 
 
 
@@ -615,6 +624,10 @@ void decipher() {
 
 ```
 ## OUTPUT:
+
+
+![Screenshot 2024-09-04 203441](https://github.com/user-attachments/assets/b8d7a8ff-0935-42f9-8a1a-0e9b36420f82)
+
 
 
 
@@ -789,6 +802,8 @@ void decrypt(char str[], int rails) {
 ```
 ## OUTPUT:
 
+![Screenshot 2024-09-04 203547](https://github.com/user-attachments/assets/756d7203-f7e4-4d71-b894-656aa5ed63e5)
+![Screenshot 2024-09-04 204037](https://github.com/user-attachments/assets/6eadd6d0-258b-4751-91af-cf50764a71bb)
 
 
 
